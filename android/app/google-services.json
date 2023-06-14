@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "2440634943",
+    "project_id": "logintest-dd76a",
+    "storage_bucket": "logintest-dd76a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2440634943:android:666595132a6e63ac650e8a",
+        "android_client_info": {
+          "package_name": "com.rn_training"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2440634943-q44eas4709ospm0gl9ur04d3s1pcpl46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9DdzHhQsFcR3vwy8pdudQ30VWOErtx_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2440634943-6n2mv4kti1955nesqaaaj22lumj33aga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "2440634943-p851mupif68h4ojok2fokq3qmho054bu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.testlogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

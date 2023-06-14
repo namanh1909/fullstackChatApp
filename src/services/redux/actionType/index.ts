@@ -1,0 +1,63 @@
+
+export interface Action {
+    [x: string]: any;
+    error: any;
+    type: string;
+    payload: any;
+}
+
+export const INIT_APP = "INIT_APP"
+export const LOGGIN_SUSCESS = "LOGIN_SUSCESS"
+export const LOGIN_FAIL = "LOGIN_FAIL"
+export const LOGOUT = "LOGOUT"
+export const LOGIN_WITH_EMAIL = "LOGIN_WITH_EMAIL"
+export const LOGIN_WITH_GOOGLE = "LOGIN_WITH_GOOGLE"
+export const SAVE_USER = "SAVE_USER"
+export const REGISTER_WITH_EMAIL = "REGISTER_WITH_EMAIL"
+
+export const CREATE_ROOM = "CREATE_ROOM"
+export const CREATE_ROOM_SUSCESS = "CREATE_ROOM_SUSCESS"
+export const SAVE_ROOM = "SAVE_ROOM"
+export const GET_ID_SELECT = "GET_ID_SELECT"
+export const CHAT_ROOM_UPDATE = "CHAT_ROOM_UPDATE"
+export const CHAT_ROOM_LOADING = "CHAT_ROOM_LOADING"
+
+export const GET_ROOM_DETAIL_ID = "GET_ROOM_DETAIL_ID"
+export const GET_ROOM_CHAT_DETAIL = "GET_ROOM_CHAT_DETAIL"
+export const GET_ROOM_DETAIL_ID_UPDATE = "GET_ROOM_DETAIL_ID_UPDATE"
+export const GET_ROOM_SELECT = "GET_ROOM_SELECT"
+
+export const DELETE_ROOM = "DELETE_ROOM"
+export const GET_LIST_ROOM = "GET_LIST_ROOM"
+export const GET_LIST_ROOM_SUSCESS = "GET_LIST_ROOM_SUSCESS"
+export const LEAVE_ROOM = "LEAVE_ROOM"
+
+export const GET_MESSAGE = "GET_MESSAGE"
+export const SEND_MESSAGE = "SEND_MESSAGE"
+export const DELETE_MESSAGE = "DELETE_MESSAGE"
+
+
+export const GET_USER = "GET_USER"
+export const GET_USER_SUSCESS = "GET_USER_SUSCESS"
+
+export const GET_MENTIONS = "GET_MENTIONS"
+export const GET_MENTIONS_SUSCESS = "GET_MENTIONS_SUSCESS"
+export const GET_ID_MENTIONS = "GET_ID_MENTIONS"
+export const DELETE_MENTION = "DELETE_MENTION"
+export const MENTION_UPDATE = "MENTION_UPDATE"
+export const GET_LIST_MENTIONS_USER = "GET_LIST_MENTIONS_USER"
+export const SEND_MENTIONS = "SEND_MENTIONS"
+
+export const GET_ROOM_BY_ID = 'GET_ROOM_BY_ID'
+export const GET_ID_ROOM = 'GET_ID_ROOM'
+
+export const UPLOADING_STARTED = "UPLOADING_STARTED"
+export const UPLOADING_PROGRESS = "UPLOADING_PROGRESS"
+export const UPLOADING_FINISHED = "UPLOADING_FINISHED"
+export const UPLOADING_ERROR = "UPLOADING_ERROR"
+
+export const UPLOAD_IMAGE_PROGRESS = 'UPLOAD_IMAGE_PROGRESS';
+
+
+
+
