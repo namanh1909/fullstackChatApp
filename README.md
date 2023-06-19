@@ -10,3 +10,4 @@
 <img width="321" alt="Screenshot 2023-06-19 at 13 03 16" src="https://github.com/namanh1909/fullstackChatApp/assets/85169417/8a1291e4-525e-4e8c-8a3a-dfa346cdaf7d">
 <img width="320" alt="Screenshot 2023-06-19 at 13 03 25" src="https://github.com/namanh1909/fullstackChatApp/assets/85169417/a4d973da-576c-4ef9-9bd9-3624760ecc91">
 <img width="326" alt="Screenshot 2023-06-19 at 13 03 36" src="https://github.com/namanh1909/fullstackChatApp/assets/85169417/4d3493bd-5c59-4285-9ba8-8dbe48cd6cb2">
+<img width="353" alt="Screenshot 2023-06-19 at 13 08 16" src="https://github.com/namanh1909/fullstackChatApp/assets/85169417/e81a1a50-b96b-401a-a3b7-6d42f91d54f5">
